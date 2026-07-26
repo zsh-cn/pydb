@@ -1,0 +1,1 @@
+该项目依赖python环境、pyinstaller运行。
